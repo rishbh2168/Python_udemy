@@ -1,0 +1,4 @@
+menu = ["green","blue","lemon","black"]
+
+for index,item in enumerate(menu,start=1):
+    print(f"{index} : {item} chai")
